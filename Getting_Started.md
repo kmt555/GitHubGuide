@@ -47,6 +47,7 @@ $ ./gh-md-toc --insert file.md
 
 Another option is to use an online web application. Simply copy and paste the content of your `file.md` into the tool. Ensure that your content is well-organized with dividers using `#` headers. The tool will parse this information and automatically generate a Table of Contents (TOC) for you. Once generated, copy the TOC and paste it into your `file.md` at the desired location. This method is particularly useful if you prefer a more visual and interactive approach to creating TOCs.
 
+For example, Table of contents at the top of this page was generated with<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'> markdown-toc</a></i></small>.
 
 ### Additional Resources
 
