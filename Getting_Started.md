@@ -43,6 +43,8 @@ And run in your terminal:
 $ ./gh-md-toc --insert file.md
 ```
 
+<small><i><a href='https://github.com/kmt555/OmicsResponseHub/blob/main/bulk_RNAseq/datasets.md'> This is an example of how this looks like.</a></i></small>
+
 ### Manual Method
 
 Another option is to use an online web application. Simply copy and paste the content of your `file.md` into the tool. Ensure that your content is well-organized with dividers using `#` headers. The tool will parse this information and automatically generate a Table of Contents (TOC) for you. Once generated, copy the TOC and paste it into your `file.md` at the desired location. This method is particularly useful if you prefer a more visual and interactive approach to creating TOCs.
