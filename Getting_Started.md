@@ -1,9 +1,6 @@
-# GitHub Quick Start 
-
-Welcome to the Getting Started guide! Whether you're new to GitHub or looking to brush up on your skills, this document will provide you with essential information to kickstart your journey. From setting up your first repository to mastering Markdown formatting and collaborating with others, we've got you covered. Let's dive in and explore the basics of getting started with GitHub.
-
 
 - [GitHub Quick Start](#github-quick-start)
+  * [Basic syntax and writing tips](#basic-syntax-and-writing-tips)
   * [Generating Table of Contents in Markdown Files](#generating-table-of-contents-in-markdown-files)
     + [Semi-Automatic Method](#semi-automatic-method)
     + [Manual Method](#manual-method)
@@ -11,6 +8,13 @@ Welcome to the Getting Started guide! Whether you're new to GitHub or looking to
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+# GitHub Quick Start 
+
+Welcome to the Getting Started guide! Whether you're new to GitHub or looking to brush up on your skills, this document will provide you with essential information to kickstart your journey. From setting up your first repository to mastering Markdown formatting and collaborating with others, we've got you covered. Let's dive in and explore the basics of getting started with GitHub.
+
+## Basic syntax and writing tips
+
+[Start here.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 ## Generating Table of Contents in Markdown Files
 
