@@ -14,7 +14,9 @@ Welcome to the Getting Started guide! Whether you're new to GitHub or looking to
 
 ## Basic syntax and writing tips
 
-[Start here.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+[Quick styling tips.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[More comprehesive overview here.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 ## Generating Table of Contents in Markdown Files
 
